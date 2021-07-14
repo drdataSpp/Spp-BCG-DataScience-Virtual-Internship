@@ -20,6 +20,7 @@ Clean the data – you might have to address missing values, duplicates, data ty
 Perform some exploratory data analysis. Look into the data types, data statistics, and identify any missing data or null values, and how often they appear in the data. Visualize specific parameters as well as variable distributions.
 
 
+
 ## TASK 3 - Feature Engineering
 
 ### Background of the task 3
@@ -30,6 +31,7 @@ Perform some exploratory data analysis. Look into the data types, data statistic
 **Sub-task 1:** Think through what key drivers of churn could be for our client.
 
 **Sub-task 2:** Build the features in order to get ready to model.
+
 
 
 ## TASK 4 - Modeling & Evaluation
